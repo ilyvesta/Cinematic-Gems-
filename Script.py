@@ -214,13 +214,17 @@ Fʀᴇᴇ Dɪꜱᴋ: {}"""
    
     FORCE_SUB_TEXT = "Sᴏʀʀʏ Bʀᴏ Yᴏᴜʀ Nᴏᴛ Jᴏɪɴᴇᴅ Mʏ Cʜᴀɴɴᴇʟ Sᴏ Pʟᴇᴀsᴇ Cʟɪᴄᴋ Jᴏɪɴ Bᴜᴛᴛᴏɴ Tᴏ Jᴏɪɴ Mʏ Cʜᴀɴɴᴇʟ Aɴᴅ Tʀʏ Aɢᴀɪɴ"
    
-    WELCOM_TEXT = """Hᴇʏ {user} 💞
+    WELCOM_TEXT = """Hᴇʏ {user} 
 
 Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
-ꜱʜᴀʀᴇ & ꜱᴜᴩᴩᴏʀᴛ, ʀᴇqᴜᴇꜱᴛ ʏᴏᴜ ᴡᴀɴᴛᴇᴅ ᴍᴏᴠɪᴇꜱ"""
+Just send the title of the movie you want with no extra information.
   
-   
+   IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>🏷 
+   Tɪᴛʟᴇ:  <a href={url}>{title}</a>
+   🎭 Gᴇɴʀᴇꜱ: {genres}
+   📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
+   🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10"""
   
  
 
