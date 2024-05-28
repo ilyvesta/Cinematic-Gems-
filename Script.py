@@ -3,7 +3,7 @@ class script(object):
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
-I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ AND SERIES Fᴏʀ Yᴏᴜ</b>"""
+I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ</b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
@@ -218,7 +218,7 @@ Fʀᴇᴇ Dɪꜱᴋ: {}"""
 
 Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 
-Just send the title of the movie you want with no extra information."""
+Read the pinned message"""
   
     IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
 
